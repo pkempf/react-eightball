@@ -17,8 +17,9 @@
   font-weight: bold;
   color: white;
   margin: 0;
+  width: 180px;
   position: relative;
-  top: 50%;
+  top: 51%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
